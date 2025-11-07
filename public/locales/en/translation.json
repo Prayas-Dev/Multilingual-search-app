@@ -1,0 +1,27 @@
+{
+  "header": {
+    "home": "Home",
+    "alerts": "Alerts",
+    "vaccines": "Vaccines",
+    "advisories": "Advisories",
+    "resources": "Resources"
+  },
+  "home": {
+    "title": "Welcome to Health Info",
+    "hero_text": "Your one-stop source for reliable health information in Mira Bhayandar. Get updates on vaccination drives, health advisories, and more.",
+    "latest_alerts": "Latest Alerts",
+    "view_all_alerts": "View All Alerts"
+  },
+  "alerts": {
+    "title": "Alerts"
+  },
+  "vaccines": {
+    "title": "Vaccination Drives"
+  },
+  "advisories": {
+    "title": "Disease Advisories"
+  },
+  "resources": {
+    "title": "Resources"
+  }
+}

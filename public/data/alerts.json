@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "title": "Heatwave Alert",
+    "summary": "High temperatures expected in Mira Bhayandar for the next 3 days.",
+    "fullText": "Mira Bhayandar Municipal Corporation has issued a heatwave alert for the next 3 days. Temperatures are expected to reach 40°C. Residents are advised to stay indoors during peak hours and stay hydrated.",
+    "date": "2025-11-08",
+    "language": "en",
+    "category": "Weather"
+  },
+  {
+    "id": 2,
+    "title": "उष्णतेची लाट इशारा",
+    "summary": "मीरा भाईंदरमध्ये पुढील ३ दिवस उच्च तापमान अपेक्षित आहे.",
+    "fullText": "मीरा भाईंदर महानगरपालिकेने पुढील ३ दिवसांसाठी उष्णतेच्या लाटेचा इशारा दिला आहे. तापमान ४०°C पर्यंत पोहोचण्याची शक्यता आहे. नागरिकांना दुपारी घराबाहेर पडू नये आणि पुरेसे पाणी पिण्याचा सल्ला दिला आहे.",
+    "date": "2025-11-08",
+    "language": "mr",
+    "category": "हवामान"
+  },
+  {
+    "id": 3,
+    "title": "हीटवेव अलर्ट",
+    "summary": "मीरा भायंदर में अगले 3 दिनों तक उच्च तापमान की उम्मीद है।",
+    "fullText": "मीरा भायंदर नगर निगम ने अगले 3 दिनों के लिए हीटवेव अलर्ट जारी किया है। तापमान 40 डिग्री सेल्सियस तक पहुंचने की उम्मीद है। निवासियों को पीक आवर्स के दौरान घर के अंदर रहने और हाइड्रेटेड रहने की सलाह दी जाती है।",
+    "date": "2025-11-08",
+    "language": "hi",
+    "category": "मौसम"
+  },
+  {
+    "id": 4,
+    "title": "Water Cut Announcement",
+    "summary": "There will be a water cut in several areas of Mira Road on 12th November.",
+    "fullText": "Due to urgent repair work, there will be a water cut in the areas of Shanti Nagar, Naya Nagar, and Sheetal Nagar on 12th November from 10 AM to 6 PM.",
+    "date": "2025-11-10",
+    "language": "en",
+    "category": "Civic"
+  },
+  {
+    "id": 5,
+    "title": "पाणी कपात घोषणा",
+    "summary": "मीरा रोडच्या अनेक भागांमध्ये १२ नोव्हेंबरला पाणी कपात होणार आहे.",
+    "fullText": "तातडीच्या दुरुस्तीच्या कामामुळे, शांती नगर, नया नगर आणि शीतल नगर या भागांमध्ये १२ नोव्हेंबरला सकाळी १० ते सायंकाळी ६ वाजेपर्यंत पाणी कपात होणार आहे.",
+    "date": "2025-11-10",
+    "language": "mr",
+    "category": "नागरिक"
+  },
+  {
+    "id": 6,
+    "title": "पानी कटौती की घोषणा",
+    "summary": "मीरा रोड के कई इलाकों में 12 नवंबर को पानी की कटौती होगी।",
+    "fullText": "अत्यावश्यक मरम्मत कार्य के कारण, 12 नवंबर को सुबह 10 बजे से शाम 6 बजे तक शांति नगर, नया नगर और शीतल नगर के क्षेत्रों में पानी की कटौती होगी।",
+    "date": "2025-11-10",
+    "language": "hi",
+    "category": "नागरिक"
+  },
+  {
+    "id": 7,
+    "title": "Road Closure Alert",
+    "summary": "A major road in Bhayandar East will be closed for construction work.",
+    "fullText": "The main road from Golden Nest Circle to Maxus Mall will be closed for metro construction work from 15th to 20th November. Please use alternate routes.",
+    "date": "2025-11-13",
+    "language": "en",
+    "category": "Traffic"
+  },
+  {
+    "id": 8,
+    "title": "रस्ता बंद इशारा",
+    "summary": "भाईंदर पूर्वेकडील एक प्रमुख रस्ता बांधकामासाठी बंद राहणार आहे.",
+    "fullText": "गोल्डन नेस्ट सर्कल ते मॅक्सस मॉलपर्यंतचा मुख्य रस्ता मेट्रोच्या बांधकामासाठी १५ ते २० नोव्हेंबरपर्यंत बंद राहणार आहे. कृपया पर्यायी मार्गांचा वापर करा.",
+    "date": "2025-11-13",
+    "language": "mr",
+    "category": "वाहतूक"
+  },
+  {
+    "id": 9,
+    "title": "सड़क बंद होने की चेतावनी",
+    "summary": "भायंदर पूर्व की एक प्रमुख सड़क निर्माण कार्य के लिए बंद रहेगी।",
+    "fullText": "गोल्डन नेस्ट सर्कल से मैक्सस मॉल तक की मुख्य सड़क 15 से 20 नवंबर तक मेट्रो निर्माण कार्य के लिए बंद रहेगी। कृपया वैकल्पिक मार्गों का उपयोग करें।",
+    "date": "2025-11-13",
+    "language": "hi",
+    "category": "यातायात"
+  },
+  {
+    "id": 10,
+    "title": "Power Outage Information",
+    "summary": "Scheduled power outage in parts of Mira Road for maintenance.",
+    "fullText": "There will be a scheduled power outage in the Kanakia area of Mira Road on 18th November from 11 AM to 2 PM for maintenance work.",
+    "date": "2025-11-16",
+    "language": "en",
+    "category": "Civic"
+  },
+  {
+    "id": 11,
+    "title": "वीज खंडित होण्याची माहिती",
+    "summary": "देखभालीसाठी मीरा रोडच्या काही भागांमध्ये नियोजित वीज खंडित.",
+    "fullText": "देखभालीच्या कामासाठी १८ नोव्हेंबरला सकाळी ११ ते दुपारी २ या वेळेत मीरा रोडच्या कनाकिया परिसरात नियोजित वीज खंडित होईल.",
+    "date": "2025-11-16",
+    "language": "mr",
+    "category": "नागरिक"
+  },
+  {
+    "id": 12,
+    "title": "बिजली कटौती की जानकारी",
+    "summary": "रखरखाव के लिए मीरा रोड के कुछ हिस्सों में निर्धारित बिजली कटौती।",
+    "fullText": "रखरखाव कार्य के लिए 18 नवंबर को सुबह 11 बजे से दोपहर 2 बजे तक मीरा रोड के कनाकिया क्षेत्र में निर्धारित बिजली कटौती होगी।",
+    "date": "2025-11-16",
+    "language": "hi",
+    "category": "नागरिक"
+  }
+]
+

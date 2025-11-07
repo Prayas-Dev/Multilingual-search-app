@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Dengue Prevention Advisory",
+    "summary": "With the onset of monsoon, it is important to take precautions against dengue.",
+    "fullText": "To prevent dengue, ensure there is no stagnant water in and around your house. Use mosquito repellents and wear full-sleeved clothes. If you have fever, headache, and body ache, consult a doctor immediately.",
+    "date": "2025-11-07",
+    "language": "en",
+    "category": "Monsoon"
+  },
+  {
+    "id": 2,
+    "title": "डेंग्यू प्रतिबंध सल्ला",
+    "summary": "पावसाळा सुरू झाल्याने डेंग्यूपासून बचाव करण्यासाठी खबरदारी घेणे महत्त्वाचे आहे.",
+    "fullText": "डेंग्यू टाळण्यासाठी, आपल्या घरात आणि आसपास पाणी साचणार नाही याची खात्री करा. मच्छर प्रतिबंधक वापरा आणि पूर्ण बाह्यांचे कपडे घाला. ताप, डोकेदुखी आणि अंगदुखी असल्यास त्वरित डॉक्टरांचा सल्ला घ्या.",
+    "date": "2025-11-07",
+    "language": "mr",
+    "category": "पावसाळा"
+  },
+  {
+    "id": 3,
+    "title": "डेंगू रोकथाम सलाह",
+    "summary": "मानसून की शुरुआत के साथ, डेंगू से बचाव के लिए सावधानी बरतना महत्वपूर्ण है।",
+    "fullText": "डेंगू को रोकने के लिए, सुनिश्चित करें कि आपके घर में और उसके आसपास कोई ठहरा हुआ पानी नहीं है। मच्छर भगाने वाले का प्रयोग करें और पूरी बाजू के कपड़े पहनें। यदि आपको बुखार, सिरदर्द और शरीर में दर्द है, तो तुरंत डॉक्टर से सलाह लें।",
+    "date": "2025-11-07",
+    "language": "hi",
+    "category": "मानसून"
+  },
+  {
+    "id": 4,
+    "title": "Air Pollution Advisory",
+    "summary": "Air quality in Mira Bhayandar is currently poor. Take necessary precautions.",
+    "fullText": "The air quality index (AQI) in Mira Bhayandar is currently in the 'Poor' category. People with respiratory issues, children, and the elderly are advised to avoid outdoor activities. Use masks when going out.",
+    "date": "2025-11-11",
+    "language": "en",
+    "category": "Air Quality"
+  },
+  {
+    "id": 5,
+    "title": "वायू प्रदूषण सल्ला",
+    "summary": "मीरा भाईंदरमधील हवेची गुणवत्ता सध्या खराब आहे. आवश्यक ती खबरदारी घ्या.",
+    "fullText": "मीरा भाईंदरमधील हवा गुणवत्ता निर्देशांक (AQI) सध्या 'खराब' श्रेणीत आहे. श्वसनाच्या समस्या असलेल्या लोकांना, मुलांना आणि वृद्धांना घराबाहेरच्या क्रियाकलाप टाळण्याचा सल्ला दिला जातो. बाहेर जाताना मास्क वापरा.",
+    "date": "2025-11-11",
+    "language": "mr",
+    "category": "हवेची गुणवत्ता"
+  },
+  {
+    "id": 6,
+    "title": "वायु प्रदूषण सलाह",
+    "summary": "मीरा भायंदर में हवा की गुणवत्ता वर्तमान में खराब है। आवश्यक सावधानी बरतें।",
+    "fullText": "मीरा भायंदर में वायु गुणवत्ता सूचकांक (एक्यूआई) वर्तमान में 'खराब' श्रेणी में है। श्वसन संबंधी समस्याओं वाले लोगों, बच्चों और बुजुर्गों को बाहरी गतिविधियों से बचने की सलाह दी जाती है। बाहर जाते समय मास्क का प्रयोग करें।",
+    "date": "2025-11-11",
+    "language": "hi",
+    "category": "वायु गुणवत्ता"
+  },
+  {
+    "id": 7,
+    "title": "Healthy Eating Habits",
+    "summary": "Follow a balanced diet to stay healthy during the winter season.",
+    "fullText": "Include fresh fruits, vegetables, and whole grains in your diet. Drink plenty of water and avoid processed foods. Regular exercise is also important for maintaining good health.",
+    "date": "2025-11-15",
+    "language": "en",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 8,
+    "title": "निरोगी खाण्याच्या सवयी",
+    "summary": "हिवाळ्यात निरोगी राहण्यासाठी संतुलित आहाराचे पालन करा.",
+    "fullText": "आपल्या आहारात ताजी फळे, भाज्या आणि संपूर्ण धान्यांचा समावेश करा. भरपूर पाणी प्या आणि प्रक्रिया केलेले पदार्थ टाळा. चांगले आरोग्य राखण्यासाठी नियमित व्यायाम देखील महत्त्वाचा आहे.",
+    "date": "2025-11-15",
+    "language": "mr",
+    "category": "जीवनशैली"
+  },
+  {
+    "id": 9,
+    "title": "स्वस्थ भोजन की आदतें",
+    "summary": "सर्दियों के मौसम में स्वस्थ रहने के लिए संतुलित आहार का पालन करें।",
+    "fullText": "अपने आहार में ताजे फल, सब्जियां और साबुत अनाज शामिल करें। खूब पानी पिएं और प्रसंस्कृत खाद्य पदार्थों से बचें। अच्छे स्वास्थ्य को बनाए रखने के लिए नियमित व्यायाम भी महत्वपूर्ण है।",
+    "date": "2025-11-15",
+    "language": "hi",
+    "category": "जीवनशैली"
+  },
+  {
+    "id": 10,
+    "title": "Mental Health Awareness",
+    "summary": "It is important to take care of your mental health. Seek help if you are feeling stressed or anxious.",
+    "fullText": "Mental health is as important as physical health. Do not hesitate to talk to a friend, family member, or a professional if you are struggling with your mental health. There are several helplines available for support.",
+    "date": "2025-10-10",
+    "language": "en",
+    "category": "Mental Health"
+  },
+  {
+    "id": 11,
+    "title": "मानसिक आरोग्य जागरूकता",
+    "summary": "आपल्या मानसिक आरोग्याची काळजी घेणे महत्त्वाचे आहे. तणावग्रस्त किंवा चिंताग्रस्त वाटत असल्यास मदत घ्या.",
+    "fullText": "मानसिक आरोग्य शारीरिक आरोग्याइतकेच महत्त्वाचे आहे. आपण आपल्या मानसिक आरोग्याशी झगडत असाल तर मित्र, कुटुंबातील सदस्य किंवा व्यावसायिकांशी बोलण्यास अजिबात संकोच करू नका. समर्थनासाठी अनेक हेल्पलाइन उपलब्ध आहेत.",
+    "date": "2025-10-10",
+    "language": "mr",
+    "category": "मानसिक आरोग्य"
+  },
+  {
+    "id": 12,
+    "title": "मानसिक स्वास्थ्य जागरूकता",
+    "summary": "अपने मानसिक स्वास्थ्य का ध्यान रखना महत्वपूर्ण है। यदि आप तनावग्रस्त या चिंतित महसूस कर रहे हैं तो मदद लें।",
+    "fullText": "मानसिक स्वास्थ्य उतना ही महत्वपूर्ण है जितना कि शारीरिक स्वास्थ्य। यदि आप अपने मानसिक स्वास्थ्य से जूझ रहे हैं तो किसी मित्र, परिवार के सदस्य या किसी पेशेवर से बात करने में संकोच न करें। समर्थन के लिए कई हेल्पलाइन उपलब्ध हैं।",
+    "date": "2025-10-10",
+    "language": "hi",
+    "category": "मानसिक स्वास्थ्य"
+  }
+]

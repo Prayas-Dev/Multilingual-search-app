@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Free COVID-19 Vaccination Drive",
+    "summary": "Free COVID-19 vaccination drive at Mira Road Sports Complex.",
+    "fullText": "A free COVID-19 vaccination drive is being organized at the Mira Road Sports Complex on 10th November 2025. Both first and second doses will be available. Please carry your Aadhar card.",
+    "date": "2025-11-09",
+    "language": "en",
+    "category": "COVID-19"
+  },
+  {
+    "id": 2,
+    "title": "मोफत कोविड-१९ लसीकरण मोहीम",
+    "summary": "मीरा रोड स्पोर्ट्स कॉम्प्लेक्समध्ये मोफत कोविड-१९ लसीकरण मोहीम.",
+    "fullText": "मीरा रोड स्पोर्ट्स कॉम्प्लेक्समध्ये १० नोव्हेंबर २०२५ रोजी मोफत कोविड-१९ लसीकरण मोहिमेचे आयोजन करण्यात आले आहे. पहिला आणि दुसरा दोन्ही डोस उपलब्ध असतील. कृपया आपले आधार कार्ड सोबत ठेवा.",
+    "date": "2025-11-09",
+    "language": "mr",
+    "category": "कोविड-१९"
+  },
+  {
+    "id": 3,
+    "title": "नि: शुल्क कोविड-19 टीकाकरण अभियान",
+    "summary": "मीरा रोड स्पोर्ट्स कॉम्प्लेक्स में नि: शुल्क कोविड-19 टीकाकरण अभियान।",
+    "fullText": "मीरा रोड स्पोर्ट्स कॉम्प्लेक्स में 10 नवंबर 2025 को एक नि: शुल्क कोविड-19 टीकाकरण अभियान आयोजित किया जा रहा है। पहली और दूसरी दोनों खुराक उपलब्ध होंगी। कृपया अपना आधार कार्ड साथ रखें।",
+    "date": "2025-11-09",
+    "language": "hi",
+    "category": "कोविड-19"
+  },
+  {
+    "id": 4,
+    "title": "Polio Vaccination Camp for Children",
+    "summary": "A polio vaccination camp is being organized for children under 5 years of age.",
+    "fullText": "A free polio vaccination camp will be held at the community hall in Shanti Park on 15th November. All children under 5 years are eligible.",
+    "date": "2025-11-12",
+    "language": "en",
+    "category": "Polio"
+  },
+  {
+    "id": 5,
+    "title": "मुलांसाठी पोलिओ लसीकरण शिबिर",
+    "summary": "५ वर्षांखालील मुलांसाठी पोलिओ लसीकरण शिबिराचे आयोजन करण्यात आले आहे.",
+    "fullText": "१५ नोव्हेंबर रोजी शांती पार्कमधील कम्युनिटी हॉलमध्ये मोफत पोलिओ लसीकरण शिबिर आयोजित केले जाईल. ५ वर्षांखालील सर्व मुले पात्र आहेत.",
+    "date": "2025-11-12",
+    "language": "mr",
+    "category": "पोलिओ"
+  },
+  {
+    "id": 6,
+    "title": "बच्चों के लिए पोलियो टीकाकरण शिविर",
+    "summary": "5 साल से कम उम्र के बच्चों के लिए एक पोलियो टीकाकरण शिविर का आयोजन किया जा रहा है।",
+    "fullText": "15 नवंबर को शांति पार्क के सामुदायिक हॉल में एक मुफ्त पोलियो टीकाकरण शिविर आयोजित किया जाएगा। 5 साल से कम उम्र के सभी बच्चे पात्र हैं।",
+    "date": "2025-11-12",
+    "language": "hi",
+    "category": "पोलियो"
+  },
+  {
+    "id": 7,
+    "title": "Flu Shot Clinic",
+    "summary": "Get your annual flu shot at the Bhayandar Health Post.",
+    "fullText": "Annual flu shots are now available at the Bhayandar Health Post. The clinic is open from 10 AM to 4 PM, Monday to Saturday.",
+    "date": "2025-11-01",
+    "language": "en",
+    "category": "Influenza"
+  },
+  {
+    "id": 8,
+    "title": "फ्लू शॉट क्लिनिक",
+    "summary": "भाईंदर हेल्थ पोस्टवर आपला वार्षिक फ्लू शॉट घ्या.",
+    "fullText": "वार्षिक फ्लू शॉट्स आता भाईंदर हेल्थ पोस्टवर उपलब्ध आहेत. क्लिनिक सोमवार ते शनिवार सकाळी १० ते दुपारी ४ पर्यंत उघडे आहे.",
+    "date": "2025-11-01",
+    "language": "mr",
+    "category": "इन्फ्लूएंझा"
+  },
+  {
+    "id": 9,
+    "title": "फ्लू शॉट क्लिनिक",
+    "summary": "भायंदर हेल्थ पोस्ट पर अपना वार्षिक फ्लू शॉट लगवाएं।",
+    "fullText": "वार्षिक फ्लू शॉट्स अब भायंदर हेल्थ पोस्ट पर उपलब्ध हैं। क्लिनिक सोमवार से शनिवार सुबह 10 बजे से शाम 4 बजे तक खुला रहता है।",
+    "date": "2025-11-01",
+    "language": "hi",
+    "category": "इन्फ्लूएंजा"
+  },
+  {
+    "id": 10,
+    "title": "Hepatitis B Vaccination for Adults",
+    "summary": "Free Hepatitis B vaccination for adults at the municipal hospital.",
+    "fullText": "A special drive for Hepatitis B vaccination for adults is being conducted at the municipal hospital from 20th to 25th November.",
+    "date": "2025-11-18",
+    "language": "en",
+    "category": "Hepatitis B"
+  },
+  {
+    "id": 11,
+    "title": "प्रौढांसाठी हिपॅटायटीस बी लसीकरण",
+    "summary": "महानगरपालिका रुग्णालयात प्रौढांसाठी मोफत हिपॅटायटीस बी लसीकरण.",
+    "fullText": "२० ते २५ नोव्हेंबर दरम्यान महानगरपालिका रुग्णालयात प्रौढांसाठी हिपॅटायटीस बी लसीकरणासाठी विशेष मोहीम राबविण्यात येत आहे.",
+    "date": "2025-11-18",
+    "language": "mr",
+    "category": "हिपॅटायटीस बी"
+  },
+  {
+    "id": 12,
+    "title": "वयस्कों के लिए हेपेटाइटिस बी टीकाकरण",
+    "summary": "नगर अस्पताल में वयस्कों के लिए मुफ्त हेपेटाइटिस बी टीकाकरण।",
+    "fullText": "20 से 25 नवंबर तक नगर अस्पताल में वयस्कों के लिए हेपेटाइटिस बी टीकाकरण के लिए एक विशेष अभियान चलाया जा रहा है।",
+    "date": "2025-11-18",
+    "language": "hi",
+    "category": "हेपेटाइटिस बी"
+  }
+]

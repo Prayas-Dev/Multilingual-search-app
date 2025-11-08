@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/Multilingual-search-app/',  // <-- add this line (your repo name)
 })
